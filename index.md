@@ -38,7 +38,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ```markdown
-import java.util.Scanner;
+
+{% highlight java %}
+
+
 
 
 public class Main{
@@ -47,4 +50,5 @@ public class Main{
   }
 }
 
+{% endhighlight %}
 ```
